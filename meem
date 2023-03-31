@@ -88,4 +88,11 @@
 
 /* Any custom CSS below here */
 
+.activity-E0U09Y:before {
+    background: none;
+}
+
+.lastSection-3_1yKt {
+    margin-bottom: 24px;
+}
 
